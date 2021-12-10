@@ -1,0 +1,593 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,9636.1087046998,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+1,2011,10207.7335023376,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+2,2012,10526.3189737173,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+3,2013,10570.9681040326,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+4,2014,11259.2967004521,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+5,2015,11658.8660596051,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+6,2016,12078.8007284137,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+7,2017,12770.9750370811,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+8,2018,13546.4816863125,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+9,2019,14230.9895072106,NY.GDP.PCAP.PP.CD,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+10,2010,7506.3219085591,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+11,2011,8025.4584849173,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+12,2012,9364.3752991844,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+13,2013,9835.8024609198,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+14,2014,10036.8898405952,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+15,2015,9969.6648539782,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+16,2016,10704.2297624759,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+17,2017,12115.1392902637,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+18,2018,13020.3963185992,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+19,2019,14231.180188533,NY.GDP.PCAP.PP.CD,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+20,2010,42041.486681307,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+21,2011,44452.7327457999,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+22,2012,46457.3457770311,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+23,2013,47922.0491207455,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+24,2014,48799.7154676985,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+25,2015,49865.9039424185,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+26,2016,52684.0171130768,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+27,2017,54169.9639937065,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+28,2018,57050.3513549091,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+29,2019,58649.6683148852,NY.GDP.PCAP.PP.CD,AUT,Austria,Europe & Central Asia,High income,Not classified
+30,2010,14926.6376402283,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+31,2011,14804.5744507911,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+32,2012,15957.718850285,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+33,2013,17188.9455056612,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+34,2014,17443.8782563093,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+35,2015,14938.4011276715,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+36,2016,14371.0227410092,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+37,2017,14121.4069355591,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+38,2018,14550.8204045494,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+39,2019,15049.9385648137,NY.GDP.PCAP.PP.CD,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+40,2010,15349.2281344976,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+41,2011,16543.0437300092,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+42,2012,18071.5055962673,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+43,2013,18948.4684736964,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+44,2014,18955.907025082,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+45,2015,18041.2425036167,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+46,2016,17725.7521791512,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+47,2017,18280.1989190642,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+48,2018,19338.6664376772,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+49,2019,20098.5989768733,NY.GDP.PCAP.PP.CD,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+50,2010,39870.4948741712,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+51,2011,40942.372710454,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+52,2012,42290.7620520019,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+53,2013,43671.11959259,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+54,2014,44929.685593416,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+55,2015,46200.904454307,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+56,2016,48597.3999826201,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+57,2017,50442.2705419623,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+58,2018,52662.5329289973,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+59,2019,54709.4669035074,NY.GDP.PCAP.PP.CD,BEL,Belgium,Europe & Central Asia,High income,Not classified
+60,2010,70620.0806836706,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+61,2011,69998.8434204712,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+62,2012,67453.8205236015,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+63,2013,68993.2274876771,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+64,2014,68775.4467426718,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+65,2015,71873.2280578182,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+66,2016,76362.0514142141,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+67,2017,81834.9558735543,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+68,2018,83377.0646748086,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+69,2019,85263.7630031759,NY.GDP.PCAP.PP.CD,BMU,Bermuda,North America,High income,Not classified
+70,2010,9355.4272267526,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+71,2011,9976.4597127467,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+72,2012,10304.0791254154,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+73,2013,11016.5604302948,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+74,2014,11433.2159257779,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+75,2015,12010.7123648982,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+76,2016,13072.1322301285,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+77,2017,13753.8320539223,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+78,2018,14916.7943797238,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+79,2019,15847.1340401587,NY.GDP.PCAP.PP.CD,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+80,2010,14879.2670141409,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+81,2011,15667.3081208607,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+82,2012,16247.4904781752,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+83,2013,16588.9333463683,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+84,2014,17561.382132399,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+85,2015,18343.1107773187,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+86,2016,20019.5912818443,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+87,2017,21387.2766420381,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+88,2018,22911.2983540279,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+89,2019,24579.2165450171,NY.GDP.PCAP.PP.CD,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+90,2010,40114.1895852364,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+91,2011,41666.7076267956,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+92,2012,42290.9654102745,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+93,2013,44298.5787342765,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+94,2014,45753.7505547994,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+95,2015,44670.0805385838,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+96,2016,46472.3402486315,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+97,2017,48317.0965785817,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+98,2018,50239.9910453428,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+99,2019,50660.5777927922,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+100,2010,19814.6019709618,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+101,2011,20804.3888834311,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+102,2012,21168.8512309248,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+103,2013,21820.5205185603,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+104,2014,22060.7411314836,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+105,2015,23005.1011419416,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+106,2016,24876.3096691701,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+107,2017,26800.118975807,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+108,2018,28554.3891018959,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+109,2019,30245.9762157222,NY.GDP.PCAP.PP.CD,HRV,Croatia,Europe & Central Asia,High income,IBRD
+110,2010,33449.0863922437,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+111,2011,33313.4700633805,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+112,2012,31834.7201145622,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+113,2013,30375.1189156952,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+114,2014,30080.3000080402,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+115,2015,31815.1397351446,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+116,2016,35719.0663731245,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+117,2017,38050.8577356233,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+118,2018,40476.3862698991,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+119,2019,41514.5105084213,NY.GDP.PCAP.PP.CD,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+120,2010,27903.2587161981,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+121,2011,29001.3680365492,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+122,2012,29254.7312685144,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+123,2013,30818.1081558477,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+124,2014,32502.4753540118,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+125,2015,33899.2865661657,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+126,2016,36097.7052556977,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+127,2017,38824.8879170919,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+128,2018,41134.0898758874,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+129,2019,43316.3274410414,NY.GDP.PCAP.PP.CD,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+130,2010,43035.8920627169,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+131,2011,44403.3848413929,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+132,2012,44803.9682421214,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+133,2013,46726.8541437832,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+134,2014,47901.4473627066,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+135,2015,49045.3391904109,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+136,2016,51976.0057060956,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+137,2017,55356.680780178,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+138,2018,57456.6118315406,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+139,2019,59896.5674986035,NY.GDP.PCAP.PP.CD,DNK,Denmark,Europe & Central Asia,High income,Not classified
+140,2010,21635.9742031175,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+141,2011,24557.2361475947,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+142,2012,25996.0467779508,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+143,2013,27464.5186781161,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+144,2014,28945.4653303277,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+145,2015,29175.9259267894,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+146,2016,31312.7522996878,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+147,2017,33821.93290847,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+148,2018,36158.8196517341,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+149,2019,38294.4773615386,NY.GDP.PCAP.PP.CD,EST,Estonia,Europe & Central Asia,High income,Not classified
+150,2010,38986.2159635875,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+151,2011,40916.8385790274,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+152,2012,40873.0953326066,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+153,2013,41493.1416470359,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+154,2014,41757.4021894413,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+155,2015,42497.7049785783,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+156,2016,44934.4482077785,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+157,2017,47570.133583848,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+158,2018,49706.5970899487,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+159,2019,51521.3348215883,NY.GDP.PCAP.PP.CD,FIN,Finland,Europe & Central Asia,High income,Not classified
+160,2010,35930.3143995293,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+161,2011,37440.6334729758,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+162,2012,37679.1189105924,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+163,2013,39523.8551519345,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+164,2014,40144.0268283679,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+165,2015,40849.9973780501,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+166,2016,42924.613626021,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+167,2017,44577.0645745394,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+168,2018,46620.6844834466,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+169,2019,49619.9097123955,NY.GDP.PCAP.PP.CD,FRA,France,Europe & Central Asia,High income,Not classified
+170,2010,7564.0630701821,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+171,2011,8360.2972070306,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+172,2012,9826.0527534109,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+173,2013,10611.7741169939,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+174,2014,11575.547210705,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+175,2015,12089.1694050447,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+176,2016,12858.4834001898,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+177,2017,13589.7073915159,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+178,2018,14595.6306437119,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+179,2019,15623.1529588881,NY.GDP.PCAP.PP.CD,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+180,2010,38982.4263045636,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+181,2011,42541.5310884096,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+182,2012,43359.6148271723,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+183,2013,44993.8927459315,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+184,2014,47011.5510935131,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+185,2015,47609.7810045816,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+186,2016,50579.6839299266,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+187,2017,53071.4555699913,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+188,2018,55142.3187778789,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+189,2019,56284.9805214619,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+190,2010,27934.4082344923,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+191,2011,25671.5160853562,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+192,2012,24912.1877194116,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+193,2013,25947.9441798953,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+194,2014,26642.1050002364,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+195,2015,26721.1195242313,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+196,2016,27471.2415919272,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+197,2017,28645.0436174422,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+198,2018,29680.9418343832,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+199,2019,30869.1509800246,NY.GDP.PCAP.PP.CD,GRC,Greece,Europe & Central Asia,High income,Not classified
+200,2010,21716.6509050862,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+201,2011,22999.8306052769,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+202,2012,23206.2551155971,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+203,2013,24498.6587673236,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+204,2014,25642.5566762677,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+205,2015,26777.4703988142,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+206,2016,27911.664839193,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+207,2017,29465.1262413898,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+208,2018,31831.9811391526,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+209,2019,33956.8219158243,NY.GDP.PCAP.PP.CD,HUN,Hungary,Europe & Central Asia,High income,Not classified
+210,2010,39805.671156625,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+211,2011,40936.867830513,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+212,2012,42004.4476110597,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+213,2013,44409.6689530904,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+214,2014,45996.9687476901,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+215,2015,49201.0640964553,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+216,2016,53480.3971946764,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+217,2017,55638.4920591796,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+218,2018,58317.4393384787,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+219,2019,60132.7119255444,NY.GDP.PCAP.PP.CD,ISL,Iceland,Europe & Central Asia,High income,Not classified
+220,2010,43236.1514623189,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+221,2011,45080.1886960425,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+222,2012,46361.463694173,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+223,2013,47830.6308878373,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+224,2014,51098.2666828245,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+225,2015,69028.7727189836,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+226,2016,71498.6010072841,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+227,2017,77749.2019569363,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+228,2018,84665.6062347313,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+229,2019,89550.7266569961,NY.GDP.PCAP.PP.CD,IRL,Ireland,Europe & Central Asia,High income,Not classified
+230,2010,35185.29289013,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+231,2011,36598.0149693024,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+232,2012,36486.2967870302,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+233,2013,36314.6971007775,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+234,2014,36194.873918843,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+235,2015,36899.3852092463,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+236,2016,39926.9546628592,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+237,2017,41581.120790548,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+238,2018,43123.6057513919,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+239,2019,44850.9264658367,NY.GDP.PCAP.PP.CD,ITA,Italy,Europe & Central Asia,High income,Not classified
+240,2010,19225.0769114856,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+241,2011,20779.4442514491,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+242,2012,22032.1745436853,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+243,2013,24504.7660856694,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+244,2014,24726.4728671586,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+245,2015,23224.1178353573,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+246,2016,23818.8248260141,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+247,2017,24862.9661245889,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+248,2018,26157.6596496269,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+249,2019,27466.2206186576,NY.GDP.PCAP.PP.CD,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+250,2010,7782.8185347329,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+251,2011,8222.2259390885,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+252,2012,8477.469768944,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+253,2013,8805.3797536383,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+254,2014,9043.1832833726,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+255,2015,9575.7548799998,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+256,2016,10062.1082638998,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+257,2017,10530.4816647712,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+258,2018,11156.6319517044,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+259,2019,11971.6630215816,NY.GDP.PCAP.PP.CD,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+260,2010,3085.6519354923,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+261,2011,3297.3668373365,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+262,2012,3618.1497257653,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+263,2013,4042.8930530041,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+264,2014,4281.8240739856,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+265,2015,4214.8295088619,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+266,2016,4681.1747328425,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+267,2017,5046.6915354909,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+268,2018,5256.3979226367,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+269,2019,5480.7426977145,NY.GDP.PCAP.PP.CD,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+270,2010,17656.5120451891,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+271,2011,19879.2027290497,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+272,2012,21407.5197265207,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+273,2013,22812.9150890235,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+274,2014,23803.8094030424,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+275,2015,24961.3546830558,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+276,2016,26710.1028027328,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+277,2017,28650.0077575999,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+278,2018,30799.4284233858,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+279,2019,32002.7567713817,NY.GDP.PCAP.PP.CD,LVA,Latvia,Europe & Central Asia,High income,Not classified
+280,2010,20112.0978087158,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+281,2011,22884.8249519631,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+282,2012,24703.6858202502,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+283,2013,26721.5796712844,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+284,2014,28184.4723303858,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+285,2015,28834.4276801135,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+286,2016,30925.1708493589,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+287,2017,33761.871239796,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+288,2018,36346.3975289681,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+289,2019,38764.9977287477,NY.GDP.PCAP.PP.CD,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+290,2010,85685.7849965872,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+291,2011,92005.0168361444,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+292,2012,91622.1774169388,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+293,2013,95590.5386984251,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+294,2014,101297.575745297,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+295,2015,103722.990846127,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+296,2016,110660.866873981,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+297,2017,112308.17379315,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+298,2018,116644.848056492,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+299,2019,120962.187770618,NY.GDP.PCAP.PP.CD,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+300,2010,6396.0892715613,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+301,2011,6913.6022920332,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+302,2012,7363.1623193664,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+303,2013,8381.6718331392,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+304,2014,8827.0541075855,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+305,2015,9254.8486051298,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+306,2016,10610.4778427993,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+307,2017,11651.3174546862,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+308,2018,12659.983658527,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+309,2019,13572.7043738974,NY.GDP.PCAP.PP.CD,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+310,2010,13646.4721838325,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+311,2011,14472.4255140477,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+312,2012,13863.9654218726,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+313,2013,14870.1762231057,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+314,2014,15371.1846293801,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+315,2015,16332.7898998369,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+316,2016,18199.3302901165,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+317,2017,19682.2833488194,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+318,2018,21547.2871559642,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+319,2019,23343.9300515788,NY.GDP.PCAP.PP.CD,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+320,2010,45078.3181447046,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+321,2011,46599.02103045,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+322,2012,47272.1030187972,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+323,2013,49241.5178406305,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+324,2014,49233.2153954401,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+325,2015,50288.5913949377,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+326,2016,52288.4150841353,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+327,2017,55088.6338006744,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+328,2018,57901.0970130477,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+329,2019,59675.1803357065,NY.GDP.PCAP.PP.CD,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+330,2010,11283.3326701093,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+331,2011,11611.248592523,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+332,2012,11839.7257154705,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+333,2013,12653.5637178389,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+334,2014,13368.1907136067,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+335,2015,13827.4120028721,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+336,2016,15077.90470044,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+337,2017,15649.9274193472,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+338,2018,16671.6985936784,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+339,2019,17583.3793739446,NY.GDP.PCAP.PP.CD,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+340,2010,57963.8759448629,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+341,2011,62076.7406576686,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+342,2012,65354.7792483883,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+343,2013,66961.2530988205,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+344,2014,65892.6892787813,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+345,2015,60368.9208717485,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+346,2016,58939.9126133093,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+347,2017,64050.7561654656,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+348,2018,69710.484509237,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+349,2019,68345.0694174133,NY.GDP.PCAP.PP.CD,NOR,Norway,Europe & Central Asia,High income,Not classified
+350,2010,21088.6163287205,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+351,2011,22827.6981360924,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+352,2012,23745.6977950951,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+353,2013,24567.5061660535,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+354,2014,25475.5046935928,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+355,2015,26862.052515029,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+356,2016,28322.1069770904,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+357,2017,30064.5034841771,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+358,2018,31978.5311498844,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+359,2019,34151.7928122918,NY.GDP.PCAP.PP.CD,POL,Poland,Europe & Central Asia,High income,IBRD
+360,2010,27282.7508350764,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+361,2011,26769.5118850004,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+362,2012,26438.0163019973,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+363,2013,27936.0396644563,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+364,2014,28742.4403783509,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+365,2015,29660.8960672526,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+366,2016,31607.7542431733,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+367,2017,33044.7167387479,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+368,2018,34931.7846000824,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+369,2019,36871.8396005497,NY.GDP.PCAP.PP.CD,PRT,Portugal,Europe & Central Asia,High income,Not classified
+370,2010,16989.3070418903,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+371,2011,17896.2758641785,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+372,2012,18869.619212847,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+373,2013,19781.9795699864,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+374,2014,20657.7070695521,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+375,2015,21605.8366788676,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+376,2016,24271.366104769,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+377,2017,27141.9193326803,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+378,2018,29248.8093232601,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+379,2019,32299.9697717021,NY.GDP.PCAP.PP.CD,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+380,2010,20490.1267193879,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+381,2011,22798.6744273279,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+382,2012,24303.4734145818,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+383,2013,26073.8745307451,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+384,2014,25761.6480209933,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+385,2015,24085.3241847947,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+386,2016,24128.0864065399,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+387,2017,25926.4438539743,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+388,2018,28681.7844582961,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+389,2019,29188.854156647,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+390,2010,62777.5326569631,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+391,2011,57954.4296788917,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+392,2012,54450.4840286607,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+393,2013,53465.094018955,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+394,2014,55432.0699369456,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+395,2015,55614.6221714245,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+396,2016,57455.563369947,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+397,2017,58867.0133632425,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+398,2018,61006.8482048258,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+399,2019,63420.3271352174,NY.GDP.PCAP.PP.CD,SMR,San Marino,Europe & Central Asia,High income,Not classified
+400,2010,12808.0571884776,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+401,2011,13746.8968107418,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+402,2012,13933.9204582499,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+403,2013,14629.0318181831,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+404,2014,14659.6064222468,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+405,2015,14928.408525228,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+406,2016,15858.0356413336,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+407,2017,16611.0168589401,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+408,2018,17736.0068023489,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+409,2019,18929.8775996569,NY.GDP.PCAP.PP.CD,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+410,2010,25209.347064081,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+411,2011,26082.758467154,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+412,2012,26967.1253617422,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+413,2013,28002.4974112566,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+414,2014,28996.8667929371,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+415,2015,29919.6596714916,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+416,2016,29659.3717763701,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+417,2017,30077.8455329271,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+418,2018,31505.0626312076,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+419,2019,32557.190775484,NY.GDP.PCAP.PP.CD,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+420,2010,27848.1327931522,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+421,2011,28931.383323805,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+422,2012,29042.8202729641,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+423,2013,29973.6993541529,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+424,2014,30870.0236667425,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+425,2015,31628.247175832,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+426,2016,33936.0440637175,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+427,2017,36507.5530416531,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+428,2018,38917.0471191,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+429,2019,41197.3781022006,NY.GDP.PCAP.PP.CD,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+430,2010,31706.8774006978,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+431,2011,31867.9732396862,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+432,2012,31720.1199986535,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+433,2013,32434.0032017704,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+434,2014,33525.7406299089,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+435,2015,34903.1274779473,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+436,2016,37286.2134326488,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+437,2017,39528.9253872668,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+438,2018,40686.9854677426,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+439,2019,42172.1317053122,NY.GDP.PCAP.PP.CD,ESP,Spain,Europe & Central Asia,High income,Not classified
+440,2010,42256.1621212554,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+441,2011,44608.5802614915,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+442,2012,45432.4319692761,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+443,2013,46312.3923824667,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+444,2014,47184.6691338182,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+445,2015,49103.1334338706,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+446,2016,50430.2528196052,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+447,2017,51947.9542478244,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+448,2018,53553.312449047,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+449,2019,55337.8745630725,NY.GDP.PCAP.PP.CD,SWE,Sweden,Europe & Central Asia,High income,Not classified
+450,2010,54900.3143485052,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+451,2011,57987.5020305492,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+452,2012,59933.5986829168,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+453,2013,62225.087267788,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+454,2014,64103.0104476336,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+455,2015,66020.2043398841,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+456,2016,68105.1549836834,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+457,2017,69103.570264696,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+458,2018,71671.5150817135,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+459,2019,73143.7581644734,NY.GDP.PCAP.PP.CD,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+460,2010,2328.4575091853,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+461,2011,2496.5822038178,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+462,2012,2750.355063083,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+463,2013,3027.8141258245,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+464,2014,3303.0981968583,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+465,2015,3150.4271143731,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+466,2016,3114.8955577858,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+467,2017,3252.9326553607,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+468,2018,3497.3235802081,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+469,2019,3732.8690680932,NY.GDP.PCAP.PP.CD,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+470,2010,17555.588678734,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+471,2011,19799.1156771937,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+472,2012,20772.4989492004,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+473,2013,22438.7142497217,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+474,2014,24090.2360374724,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+475,2015,25753.3905100464,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+476,2016,26512.0169514886,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+477,2017,27913.8187158996,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+478,2018,27942.9558261698,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+479,2019,27318.4324996132,NY.GDP.PCAP.PP.CD,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+480,2010,9810.6120537055,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+481,2011,11294.9680818522,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+482,2012,12057.1822385492,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+483,2013,12739.1795756826,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+484,2014,13490.9970361539,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+485,2015,13690.6141143429,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+486,2016,13862.275566957,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+487,2017,14205.0265119624,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+488,2018,15201.778571094,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+489,2019,16195.5387877252,NY.GDP.PCAP.PP.CD,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,IBRD
+490,2010,8245.3752412256,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+491,2011,8909.6596075413,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+492,2012,9343.3307396608,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+493,2013,10691.7646844701,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+494,2014,10743.5863638157,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+495,2015,10164.3273340852,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+496,2016,11148.196546631,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+497,2017,11871.1236240918,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+498,2018,12634.2355540514,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+499,2019,13350.4823150166,NY.GDP.PCAP.PP.CD,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+500,2010,36464.4825675756,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+501,2011,37169.5471442258,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+502,2012,38299.5689881601,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+503,2013,39931.2293779137,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+504,2014,41289.0758256899,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+505,2015,42567.5917974837,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+506,2016,44149.9999768118,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+507,2017,45744.7104907571,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+508,2018,47145.8840978145,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+509,2019,48513.4975021936,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+510,2010,48466.6576026922,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+511,2011,49882.5581321495,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+512,2012,51602.9310457907,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+513,2013,53106.5367672165,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+514,2014,55049.9883272312,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+515,2015,56863.3714957652,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+516,2016,58021.4004997125,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+517,2017,60109.6557260477,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+518,2018,63064.4184096728,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+519,2019,65279.529026095,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+520,2010,5124.1227221219,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+521,2011,5489.0789641264,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+522,2012,5712.824302693,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+523,2013,5942.396758671,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+524,2014,6158.5024591276,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+525,2015,6343.1497417051,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+526,2016,6452.9279377954,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+527,2017,6518.8046866066,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+528,2018,6917.6787960123,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+529,2019,7310.9600555984,NY.GDP.PCAP.PP.CD,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+530,2013,12.2,IC.FRM.FEMM.ZS,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+531,2019,18.1,IC.FRM.FEMM.ZS,ALB,Albania,Europe & Central Asia,Upper middle income,IBRD
+532,2013,14.1,IC.FRM.FEMM.ZS,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+533,2013,2.6,IC.FRM.FEMM.ZS,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+534,2019,16.5,IC.FRM.FEMM.ZS,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD
+535,2013,32.2,IC.FRM.FEMM.ZS,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+536,2018,21.1,IC.FRM.FEMM.ZS,BLR,Belarus,Europe & Central Asia,Upper middle income,IBRD
+537,2013,16.6,IC.FRM.FEMM.ZS,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+538,2019,16.6,IC.FRM.FEMM.ZS,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD
+539,2013,23.5,IC.FRM.FEMM.ZS,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+540,2019,28.8,IC.FRM.FEMM.ZS,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+541,2013,20.1,IC.FRM.FEMM.ZS,HRV,Croatia,Europe & Central Asia,High income,IBRD
+542,2019,27.0,IC.FRM.FEMM.ZS,HRV,Croatia,Europe & Central Asia,High income,IBRD
+543,2019,8.2,IC.FRM.FEMM.ZS,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+544,2013,11.3,IC.FRM.FEMM.ZS,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+545,2019,16.1,IC.FRM.FEMM.ZS,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+546,2013,27.6,IC.FRM.FEMM.ZS,EST,Estonia,Europe & Central Asia,High income,Not classified
+547,2019,22.5,IC.FRM.FEMM.ZS,EST,Estonia,Europe & Central Asia,High income,Not classified
+548,2013,32.7,IC.FRM.FEMM.ZS,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+549,2019,16.5,IC.FRM.FEMM.ZS,GEO,Georgia,Europe & Central Asia,Upper middle income,IBRD
+550,2018,17.2,IC.FRM.FEMM.ZS,GRC,Greece,Europe & Central Asia,High income,Not classified
+551,2013,20.7,IC.FRM.FEMM.ZS,HUN,Hungary,Europe & Central Asia,High income,Not classified
+552,2019,22.1,IC.FRM.FEMM.ZS,HUN,Hungary,Europe & Central Asia,High income,Not classified
+553,2019,15.3,IC.FRM.FEMM.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+554,2013,19.4,IC.FRM.FEMM.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+555,2019,26.0,IC.FRM.FEMM.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+556,2013,9.3,IC.FRM.FEMM.ZS,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+557,2019,2.7,IC.FRM.FEMM.ZS,XKX,Kosovo,Europe & Central Asia,Upper middle income,IDA
+558,2013,30.9,IC.FRM.FEMM.ZS,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+559,2019,32.9,IC.FRM.FEMM.ZS,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,IDA
+560,2013,33.9,IC.FRM.FEMM.ZS,LVA,Latvia,Europe & Central Asia,High income,Not classified
+561,2019,32.6,IC.FRM.FEMM.ZS,LVA,Latvia,Europe & Central Asia,High income,Not classified
+562,2013,22.0,IC.FRM.FEMM.ZS,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+563,2019,30.7,IC.FRM.FEMM.ZS,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+564,2013,22.4,IC.FRM.FEMM.ZS,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+565,2019,18.6,IC.FRM.FEMM.ZS,MDA,Moldova,Europe & Central Asia,Upper middle income,IBRD
+566,2013,19.2,IC.FRM.FEMM.ZS,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+567,2019,15.0,IC.FRM.FEMM.ZS,MNE,Montenegro,Europe & Central Asia,Upper middle income,IBRD
+568,2013,16.8,IC.FRM.FEMM.ZS,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+569,2019,21.3,IC.FRM.FEMM.ZS,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+570,2013,20.4,IC.FRM.FEMM.ZS,POL,Poland,Europe & Central Asia,High income,IBRD
+571,2019,27.8,IC.FRM.FEMM.ZS,POL,Poland,Europe & Central Asia,High income,IBRD
+572,2019,14.0,IC.FRM.FEMM.ZS,PRT,Portugal,Europe & Central Asia,High income,Not classified
+573,2013,18.3,IC.FRM.FEMM.ZS,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+574,2019,17.2,IC.FRM.FEMM.ZS,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+575,2012,20.1,IC.FRM.FEMM.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+576,2019,24.3,IC.FRM.FEMM.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+577,2013,15.3,IC.FRM.FEMM.ZS,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+578,2019,18.2,IC.FRM.FEMM.ZS,SRB,Serbia,Europe & Central Asia,Upper middle income,IBRD
+579,2013,14.0,IC.FRM.FEMM.ZS,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+580,2019,22.9,IC.FRM.FEMM.ZS,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+581,2013,21.9,IC.FRM.FEMM.ZS,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+582,2019,18.8,IC.FRM.FEMM.ZS,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+583,2014,12.5,IC.FRM.FEMM.ZS,SWE,Sweden,Europe & Central Asia,High income,Not classified
+584,2013,9.1,IC.FRM.FEMM.ZS,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+585,2019,6.6,IC.FRM.FEMM.ZS,TJK,Tajikistan,Europe & Central Asia,Lower middle income,IDA
+586,2013,5.5,IC.FRM.FEMM.ZS,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+587,2019,3.9,IC.FRM.FEMM.ZS,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+588,2013,20.9,IC.FRM.FEMM.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+589,2019,17.7,IC.FRM.FEMM.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+590,2013,14.9,IC.FRM.FEMM.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+591,2019,12.4,IC.FRM.FEMM.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend

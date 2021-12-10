@@ -1,0 +1,707 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,1710.5754110923,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+1,2011,1699.4881101974,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+2,2012,1914.7742283796,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+3,2013,2015.5147746695,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+4,2014,2069.4240216736,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+5,2015,2087.3053230668,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+6,2016,1981.118068507,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+7,2017,2058.4002210698,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+8,2018,2082.6356482136,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+9,2019,2152.3664894209,NY.GDP.PCAP.PP.CD,AFG,Afghanistan,South Asia,Low income,IDA
+10,2010,13095.4482810777,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+11,2011,13500.0438649003,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+12,2012,13303.3275185881,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+13,2013,13056.8025915699,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+14,2014,13003.2667848382,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+15,2015,12015.6329073378,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+16,2016,11624.3407087852,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+17,2017,11737.4161588301,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+18,2018,11921.7253285832,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+19,2019,11997.3378341915,NY.GDP.PCAP.PP.CD,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+20,2010,20611.4457775542,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+21,2011,20347.8684831466,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+22,2012,19598.0238599601,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+23,2013,18797.6263678382,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+24,2014,19039.0045029811,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+25,2015,18911.3068944389,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+26,2016,19920.2657838504,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+27,2017,19840.2840357026,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+28,2018,21535.330885686,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+29,2019,22460.0192532032,NY.GDP.PCAP.PP.CD,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+30,2010,18061.9343589164,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+31,2011,19322.2271236942,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+32,2012,19641.3528638347,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+33,2013,20131.6804246983,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+34,2014,19683.7715056442,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+35,2015,20105.1989918165,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+36,2016,20307.870052142,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+37,2017,23597.117752839,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+38,2018,23305.847419406,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+39,2019,22996.9855202977,NY.GDP.PCAP.PP.CD,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+40,2010,32625.4926908747,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+41,2011,34324.7993588886,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+42,2012,33567.5500169846,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+43,2013,36829.0327743518,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+44,2014,36779.429429343,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+45,2015,37311.7503195981,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+46,2016,37585.0250792115,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+47,2017,38897.122666275,NY.GDP.PCAP.PP.CD,ABW,Aruba,Latin America & Caribbean ,High income,Not classified
+48,2010,31090.6396478899,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+49,2011,31522.0790403838,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+50,2012,32216.6977983187,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+51,2013,31873.0108467838,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+52,2014,33154.7205490089,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+53,2015,33424.2446640741,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+54,2016,34154.9814490258,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+55,2017,36298.4480017563,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+56,2018,37908.8381385227,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+57,2019,38669.3350131335,NY.GDP.PCAP.PP.CD,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+58,2010,46872.9477813149,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+59,2011,47377.4983094697,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+60,2012,50675.6210184322,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+61,2013,51494.4117178119,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+62,2014,51101.9770222914,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+63,2015,45575.7835718316,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+64,2016,44768.9709139461,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+65,2017,47709.7780156397,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+66,2018,47309.7095539899,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+67,2019,46966.0262725818,NY.GDP.PCAP.PP.CD,BHR,Bahrain,Middle East & North Africa,High income,Not classified
+68,2010,2439.0696271812,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+69,2011,2620.8337904087,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+70,2012,2937.6287981042,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+71,2013,3143.5855027524,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+72,2014,3368.0561640314,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+73,2015,3555.505259706,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+74,2016,3848.9576636919,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+75,2017,4160.7033247153,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+76,2018,4547.4795716194,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+77,2019,4954.7614000529,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+78,2010,16127.8113837512,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+79,2011,16304.3824246065,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+80,2012,15310.1139268025,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+81,2013,15334.8282457896,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+82,2014,15175.4956415237,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+83,2015,15510.6612056616,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+84,2016,15951.9586760888,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+85,2017,15789.0411622149,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+86,2018,16051.2558119276,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+87,2019,16300.422208391,NY.GDP.PCAP.PP.CD,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+88,2010,7563.7026624217,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+89,2011,7684.8298621884,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+90,2012,7272.8365872704,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+91,2013,7227.2135630461,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+92,2014,7190.0861083464,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+93,2015,7235.7101776584,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+94,2016,7236.9309594066,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+95,2017,7193.6343099034,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+96,2018,7436.2264215185,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+97,2019,7558.6046557447,NY.GDP.PCAP.PP.CD,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+98,2010,6693.515912877,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+99,2011,7295.8533284229,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+100,2012,7912.1446445091,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+101,2013,7989.6891789258,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+102,2014,8666.4557246366,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+103,2015,9500.6507156498,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+104,2016,10457.244384538,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+105,2017,11142.4746724654,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+106,2018,11620.9159001164,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+107,2019,12332.5394928352,NY.GDP.PCAP.PP.CD,BTN,Bhutan,South Asia,Lower middle income,IDA
+108,2010,5167.1103118386,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+109,2011,5460.2570576886,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+110,2012,5921.6489069098,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+111,2013,6624.8059229719,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+112,2014,7056.8283653179,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+113,2015,7133.8731450873,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+114,2016,7499.7727395414,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+115,2017,8423.6975596562,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+116,2018,8863.3491743931,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+117,2019,9093.43166012,NY.GDP.PCAP.PP.CD,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+118,2010,14299.5515511075,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+119,2011,15040.0576497945,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+120,2012,15046.2901818178,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+121,2013,15588.7261289148,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+122,2014,15718.5649500141,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+123,2015,14744.1136344696,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+124,2016,14256.163385421,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+125,2017,14524.6135408175,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+126,2018,15020.4382238881,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+127,2019,15388.2349159911,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+128,2010,63298.1776464306,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+129,2011,64014.7419684634,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+130,2012,62795.9026761888,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+131,2013,62440.0072218164,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+132,2014,63067.4199221543,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+133,2015,64233.533979905,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+134,2016,66639.5510604135,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+135,2017,69753.0897229101,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+136,2018,73507.5695160568,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+137,2019,76747.6663062938,NY.GDP.PCAP.PP.CD,CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified
+138,2010,18161.8092446236,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+139,2011,20342.5614772686,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+140,2012,21507.6925701952,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+141,2013,22439.2732478593,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+142,2014,22786.642771331,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+143,2015,22698.5456555402,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+144,2016,23437.5925260344,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+145,2017,24470.7036236997,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+146,2018,24740.4961524432,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+147,2019,25974.7316377039,NY.GDP.PCAP.PP.CD,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+148,2010,10731.645914959,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+149,2011,11604.102283016,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+150,2012,12018.6512847411,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+151,2013,12727.764931531,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+152,2014,13307.4245015783,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+153,2015,13265.7972569151,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+154,2016,13812.0960563446,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+155,2017,14171.3205005648,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+156,2018,14865.8932403218,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+157,2019,15621.0873671586,NY.GDP.PCAP.PP.CD,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+158,2010,12863.8495104025,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+159,2011,13545.9317746351,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+160,2012,14321.5183739037,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+161,2013,15005.919357078,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+162,2014,16067.3307687826,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+163,2015,17090.7965760726,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+164,2016,19075.0044669733,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+165,2017,20347.0347715842,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+166,2018,20994.3957642254,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+167,2019,21792.4758810293,NY.GDP.PCAP.PP.CD,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+168,2010,26884.2709168924,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+169,2011,27224.4009690808,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+170,2012,26175.4939023336,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+171,2013,25921.158411774,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+172,2014,25379.297699527,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+173,2015,25090.2081248596,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+174,2016,24808.4036650153,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+175,2017,25475.4896636129,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+176,2018,25656.4585326602,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+177,2019,25530.2068461419,NY.GDP.PCAP.PP.CD,CUW,Curacao,Latin America & Caribbean ,High income,Not classified
+178,2013,4103.9412036626,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+179,2014,4289.0342499365,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+180,2015,4574.4498516572,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+181,2016,4692.5506891003,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+182,2017,4885.2050391199,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+183,2018,5339.2610751424,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+184,2019,5768.8310899221,NY.GDP.PCAP.PP.CD,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+185,2010,10017.7618724744,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+186,2011,10199.1242353027,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+187,2012,9946.8302646452,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+188,2013,10145.9193773568,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+189,2014,10909.3766283126,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+190,2015,11141.2010963286,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+191,2016,11949.5340594635,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+192,2017,11304.0433278877,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+193,2018,11814.0207216403,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+194,2019,12409.36904171,NY.GDP.PCAP.PP.CD,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+195,2010,11410.3534599665,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+196,2011,11869.1230948161,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+197,2012,11900.4850051553,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+198,2013,12482.1621152034,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+199,2014,13475.0111677589,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+200,2015,14740.8268674233,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+201,2016,16109.8636711409,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+202,2017,16735.3644228294,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+203,2018,18137.0523994947,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+204,2019,19191.5803869457,NY.GDP.PCAP.PP.CD,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+205,2010,9090.310050231,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+206,2011,9857.5205228279,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+207,2012,10311.4045972003,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+208,2013,11153.6852119041,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+209,2014,11713.1759081751,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+210,2015,11060.2862685275,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+211,2016,11034.26917908,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+212,2017,11617.9122190573,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+213,2018,11839.3432355586,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+214,2019,11851.4654079335,NY.GDP.PCAP.PP.CD,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+215,2010,9522.5091630601,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+216,2011,9686.0462638774,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+217,2012,11092.7432596071,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+218,2013,11221.3803859221,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+219,2014,10895.9431672625,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+220,2015,11512.4021442637,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+221,2016,11192.3730101321,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+222,2017,11014.4864791744,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+223,2018,11639.2390898864,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+224,2019,12260.7205373863,NY.GDP.PCAP.PP.CD,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+225,2010,6127.0767612596,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+226,2011,6465.8116769352,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+227,2012,6541.2161638634,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+228,2013,6877.1495029258,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+229,2014,7233.1920197444,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+230,2015,7597.689173517,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+231,2016,8038.6297942883,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+232,2017,8454.0555513438,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+233,2018,8820.8389035208,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+234,2019,9168.0469832557,NY.GDP.PCAP.PP.CD,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+235,2010,10863.4810030685,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+236,2011,11116.7478882167,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+237,2012,11163.8153053984,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+238,2013,11887.3578830457,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+239,2014,13042.0556249047,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+240,2015,14151.9010690754,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+241,2016,15025.5491188142,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+242,2017,16217.4998498411,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+243,2018,17205.3670105107,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+244,2019,17771.3488774299,NY.GDP.PCAP.PP.CD,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+245,2010,6618.1905322871,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+246,2011,6910.8765015522,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+247,2012,7204.7329380787,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+248,2013,7446.5880093672,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+249,2014,7758.4931698064,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+250,2015,8194.4406812682,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+251,2016,8221.7464272219,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+252,2017,8322.216809915,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+253,2018,8665.347260973,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+254,2019,9019.2560623914,NY.GDP.PCAP.PP.CD,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+255,2010,9319.4087022097,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+256,2011,9987.4225796581,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+257,2012,10479.7802035183,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+258,2013,11023.2337587733,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+259,2014,10951.806089186,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+260,2015,11198.3015858384,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+261,2016,11296.7699725276,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+262,2017,12005.4051048003,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+263,2018,12777.1609714904,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+264,2019,13635.4481576385,NY.GDP.PCAP.PP.CD,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+265,2010,2628.2777216605,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+266,2011,2805.7260053971,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+267,2012,2762.4413683518,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+268,2013,2872.1900537292,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+269,2014,2897.2150692131,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+270,2015,2903.3599032276,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+271,2016,3025.7327262471,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+272,2017,2980.9605843866,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+273,2018,3064.1552189905,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+274,2019,3028.3093822391,NY.GDP.PCAP.PP.CD,HTI,Haiti,Latin America & Caribbean ,Lower middle income,IDA
+275,2010,3778.4619238786,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+276,2011,3928.2685382083,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+277,2012,4032.5808560668,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+278,2013,4142.2384557937,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+279,2014,4452.5879909675,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+280,2015,4823.3953955251,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+281,2016,5147.2451332568,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+282,2017,5561.9945421912,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+283,2018,5816.7473240231,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+284,2019,5978.7643990974,NY.GDP.PCAP.PP.CD,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+285,2010,4236.7443479487,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+286,2011,4493.6694656771,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+287,2012,4861.1561523634,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+288,2013,5057.2334137479,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+289,2014,5233.8823425151,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+290,2015,5464.859178008,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+291,2016,5839.8648167547,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+292,2017,6182.9221085747,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+293,2018,6675.3612941094,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+294,2019,6997.8639882409,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+295,2010,17388.8956144627,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+296,2011,18008.8017990523,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+297,2012,15950.1005222497,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+298,2013,15273.8423174397,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+299,2014,15235.7016903585,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+300,2015,13588.4688130805,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+301,2016,14011.5497101713,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+302,2017,14535.8735778483,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+303,2018,13795.3174673184,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+304,2019,12913.1628381469,NY.GDP.PCAP.PP.CD,IRN,"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,IBRD
+305,2010,12717.0171365756,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+306,2011,13515.5459272349,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+307,2012,15163.3501421971,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+308,2013,15535.345982143,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+309,2014,13888.076375953,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+310,2015,9763.9040903102,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+311,2016,9428.6066207719,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+312,2017,10719.0122173577,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+313,2018,10594.6235773377,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+314,2019,11012.0510887131,NY.GDP.PCAP.PP.CD,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+315,2010,28825.6458286192,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+316,2011,30486.8529002823,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+317,2012,31693.0477539271,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+318,2013,34152.3044335602,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+319,2014,34266.995175409,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+320,2015,35475.1772932563,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+321,2016,37794.8075415923,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+322,2017,38833.9734252986,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+323,2018,40343.0969507207,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+324,2019,41947.5899429783,NY.GDP.PCAP.PP.CD,ISR,Israel,Middle East & North Africa,High income,Not classified
+325,2010,7900.1994785027,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+326,2011,8159.8761649991,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+327,2012,8187.1936736495,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+328,2013,8442.983667431,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+329,2014,8545.1028366997,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+330,2015,8792.0569569469,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+331,2016,9194.1567392958,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+332,2017,9600.1047458039,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+333,2018,9968.5944928208,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+334,2019,10190.4746507783,NY.GDP.PCAP.PP.CD,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+335,2010,9460.291373175,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+336,2011,9402.6162043188,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+337,2012,9189.1892142558,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+338,2013,9322.3024538644,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+339,2014,9181.046372458,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+340,2015,9464.6822421637,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+341,2016,9445.9168629956,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+342,2017,10003.5749827297,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+343,2018,10253.8174501169,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+344,2019,10497.2979196497,NY.GDP.PCAP.PP.CD,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+345,2010,73965.9706064094,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+346,2011,78178.220365833,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+347,2012,82680.4059382088,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+348,2013,78058.3800591345,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+349,2014,70082.4628390641,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+350,2015,47230.6601329032,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+351,2016,44685.4974338707,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+352,2017,50855.5528597544,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+353,2018,51690.5688577367,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+354,2019,51962.0476983501,NY.GDP.PCAP.PP.CD,KWT,Kuwait,Middle East & North Africa,High income,Not classified
+355,2010,14961.7349253709,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+356,2011,14669.4158186072,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+357,2012,14819.5909569412,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+358,2013,14976.7806043393,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+359,2014,15029.6096995586,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+360,2015,15067.7676822194,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+361,2016,15479.8204203785,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+362,2017,15987.6543351696,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+363,2018,15962.4214779735,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+364,2019,15166.9797085934,NY.GDP.PCAP.PP.CD,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+365,2010,29895.200306028,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+366,2011,11482.1006621486,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+367,2012,24285.2962607423,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+368,2013,19869.1392687734,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+369,2014,14303.0129938786,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+370,2015,12220.0234015984,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+371,2016,11108.7236834015,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+372,2017,13238.0005389502,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+373,2018,15378.5727636163,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+374,2019,15815.8769077968,NY.GDP.PCAP.PP.CD,LBY,Libya,Middle East & North Africa,Upper middle income,IBRD
+375,2010,12712.3432126961,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+376,2011,13542.9986741713,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+377,2012,13690.7351991166,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+378,2013,14774.1856353898,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+379,2014,15993.0586879357,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+380,2015,16768.8259801786,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+381,2016,17411.2642571085,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+382,2017,18058.5810797009,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+383,2018,19246.8074838403,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+384,2019,20357.009142014,NY.GDP.PCAP.PP.CD,MDV,Maldives,South Asia,Upper middle income,IDA
+385,2010,28744.7001159168,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+386,2011,28973.1956258916,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+387,2012,30243.9876570776,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+388,2013,32295.8785989372,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+389,2014,34344.1114460945,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+390,2015,37455.0705857175,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+391,2016,39886.9498046529,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+392,2017,42644.0508459903,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+393,2018,44482.2396843652,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+394,2019,46766.7666801313,NY.GDP.PCAP.PP.CD,MLT,Malta,Middle East & North Africa,High income,Not classified
+395,2010,15260.6208214691,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+396,2011,16520.2592224915,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+397,2012,17162.9273706838,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+398,2013,17373.8974567258,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+399,2014,18056.7898061476,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+400,2015,18301.5004690469,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+401,2016,19323.6658689896,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+402,2017,19721.2609759241,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+403,2018,20257.8260935189,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+404,2019,20447.8850679641,NY.GDP.PCAP.PP.CD,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+405,2010,6332.1256668015,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+406,2011,6712.3231782485,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+407,2012,6702.4183242653,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+408,2013,6916.0130317388,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+409,2014,6609.6091078775,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+410,2015,7024.9630890266,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+411,2016,7113.0045998629,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+412,2017,7312.0567790386,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+413,2018,7625.7357526073,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+414,2019,7856.2450573973,NY.GDP.PCAP.PP.CD,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+415,2010,2169.5153588972,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+416,2011,2288.2493374455,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+417,2012,2505.3918104566,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+418,2013,2702.2249626342,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+419,2014,2947.316487254,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+420,2015,2996.2204618677,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+421,2016,2989.6750063754,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+422,2017,3565.1978074005,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+423,2018,3864.3221240967,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+424,2019,4119.9223393551,NY.GDP.PCAP.PP.CD,NPL,Nepal,South Asia,Lower middle income,IDA
+425,2010,3981.0867206756,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+426,2011,4263.1966775839,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+427,2012,4427.9647790121,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+428,2013,4610.2989812905,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+429,2014,4941.6997020079,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+430,2015,5293.8704622429,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+431,2016,5694.0542874079,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+432,2017,6004.0285802911,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+433,2018,5867.2569560563,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+434,2019,5682.2602211815,NY.GDP.PCAP.PP.CD,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+435,2010,44291.3128957532,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+436,2011,43425.1685126413,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+437,2012,44508.8981702806,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+438,2013,42078.8608877537,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+439,2014,38624.6826757656,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+440,2015,31122.7386627809,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+441,2016,28908.5405354015,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+442,2017,29077.3635995539,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+443,2018,29031.6443296801,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+444,2019,28448.8587759504,NY.GDP.PCAP.PP.CD,OMN,Oman,Middle East & North Africa,High income,Not classified
+445,2010,3890.290618608,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+446,2011,3993.5593669876,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+447,2012,4018.7327373187,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+448,2013,4103.6295635188,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+449,2014,4238.6338674009,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+450,2015,4373.0144748822,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+451,2016,4410.0065649467,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+452,2017,4571.205078408,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+453,2018,4853.2665574025,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+454,2019,4888.8450871345,NY.GDP.PCAP.PP.CD,PAK,Pakistan,South Asia,Lower middle income,Blend
+455,2010,15153.5109845062,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+456,2011,16923.9346609559,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+457,2012,18679.4980569803,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+458,2013,20809.8122422977,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+459,2014,22897.3731046132,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+460,2015,25319.2570478424,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+461,2016,27828.5579200812,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+462,2017,30446.8372293853,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+463,2018,31757.561135057,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+464,2019,32761.3753926993,NY.GDP.PCAP.PP.CD,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+465,2010,10001.5304279296,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+466,2011,10503.5958528238,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+467,2012,10018.7236347841,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+468,2013,11062.5587335491,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+469,2014,11454.4288765968,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+470,2015,11486.5231905557,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+471,2016,12041.7235427806,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+472,2017,12590.548443655,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+473,2018,13135.6988678799,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+474,2019,13149.0385702748,NY.GDP.PCAP.PP.CD,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+475,2010,9730.4211039342,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+476,2011,10476.7963282297,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+477,2012,10767.6773277036,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+478,2013,11295.9632644083,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+479,2014,11510.2788763872,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+480,2015,11572.3207931902,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+481,2016,12013.3773897006,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+482,2017,12506.5293750586,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+483,2018,13088.2958384558,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+484,2019,13397.2739160483,NY.GDP.PCAP.PP.CD,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+485,2010,30925.4008276163,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+486,2011,31824.1548383855,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+487,2012,32582.6224082106,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+488,2013,33172.6712604566,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+489,2014,33682.850026137,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+490,2015,34016.0223523129,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+491,2016,34346.8673317443,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+492,2017,34363.7459921451,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+493,2018,35122.8796571739,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+494,2019,36276.8332431875,NY.GDP.PCAP.PP.CD,PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified
+495,2010,132047.986592971,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+496,2011,139358.965282942,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+497,2012,141634.703824196,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+498,2013,138229.768982426,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+499,2014,129068.578893335,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+500,2015,92968.2320969379,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+501,2016,83102.3504913049,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+502,2017,91738.7527899469,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+503,2018,93154.2348833798,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+504,2019,93851.7456826318,NY.GDP.PCAP.PP.CD,QAT,Qatar,Middle East & North Africa,High income,Not classified
+505,2010,51529.8278892236,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+506,2011,56133.1441876452,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+507,2012,57364.9851130461,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+508,2013,55908.2499274917,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+509,2014,55726.1023123695,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+510,2015,48611.1314748371,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+511,2016,45484.4384338923,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+512,2017,47306.222319502,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+513,2018,48735.4604982217,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+514,2019,48948.1740036301,NY.GDP.PCAP.PP.CD,SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified
+515,2010,34232.355106759,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+516,2011,37233.9683840429,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+517,2012,32878.4408816334,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+518,2013,32478.2989639344,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+519,2014,38858.5814633011,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+520,2015,38211.8331867085,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+521,2016,38230.0318635575,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+522,2017,37914.1229673613,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+523,2018,36190.6639121767,NY.GDP.PCAP.PP.CD,SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified
+524,2010,8194.2692538505,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+525,2011,9007.7341986963,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+526,2012,10315.1802471606,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+527,2013,10852.0640424766,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+528,2014,11256.8560497537,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+529,2015,11557.4870517689,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+530,2016,12224.2157651465,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+531,2017,12584.1047924776,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+532,2018,13169.0947047054,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+533,2019,13622.8604484357,NY.GDP.PCAP.PP.CD,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+534,2010,22096.7052046653,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+535,2011,22770.5051922447,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+536,2012,21489.2597931986,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+537,2013,22153.3319982916,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+538,2014,23950.1374239284,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+539,2015,23921.5244346294,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+540,2016,24925.4511581295,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+541,2017,25360.0910245676,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+542,2018,26523.5266272002,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+543,2019,27345.0545248119,NY.GDP.PCAP.PP.CD,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+544,2010,12412.8775135974,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+545,2011,13256.9264087396,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+546,2012,13079.7725223798,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+547,2013,13489.6960909185,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+548,2014,13760.2507849254,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+549,2015,13551.3452289242,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+550,2016,14291.0227530003,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+551,2017,14945.7332820006,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+552,2018,15627.7868266281,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+553,2019,16101.6544561103,NY.GDP.PCAP.PP.CD,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+554,2010,10139.3502301021,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+555,2011,10302.5154675669,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+556,2012,10457.1584317001,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+557,2013,10909.2641778269,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+558,2014,11309.4037895139,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+559,2015,11643.2269226937,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+560,2016,12456.043750342,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+561,2017,12245.1263378297,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+562,2018,12765.7324330884,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+563,2019,13012.7071158947,NY.GDP.PCAP.PP.CD,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+564,2010,13548.5332166759,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+565,2011,14475.0726056728,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+566,2012,15785.1235672236,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+567,2013,16815.1104323619,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+568,2014,17261.0755848226,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+569,2015,17210.2703419313,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+570,2016,15062.4412909026,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+571,2017,18283.6883894232,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+572,2018,19461.9765178867,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+573,2019,19841.8078062205,NY.GDP.PCAP.PP.CD,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+574,2010,30528.8931380997,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+575,2011,30887.9827973072,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+576,2012,30063.3274626865,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+577,2013,30059.7156457675,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+578,2014,29698.5699447137,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+579,2015,27397.229201165,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+580,2016,26389.7416688838,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+581,2017,26342.6166624768,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+582,2018,26880.6387228774,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+583,2019,26920.144729383,NY.GDP.PCAP.PP.CD,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+584,2010,10155.5338609356,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+585,2011,10067.9137195939,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+586,2012,10217.1393766399,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+587,2013,10231.7263105005,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+588,2014,10446.0712647377,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+589,2015,10208.7495065618,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+590,2016,10359.3245220497,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+591,2017,10605.2948839809,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+592,2018,11022.1649031046,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+593,2019,11210.4251621243,NY.GDP.PCAP.PP.CD,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+594,2011,21235.7438347413,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+595,2012,19374.078126791,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+596,2013,20119.5319548634,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+597,2014,22029.9612297006,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+598,2015,24098.8506584398,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+599,2016,26353.1702312804,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+600,2017,27060.5896570252,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+601,2018,28837.0269209651,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+602,2019,30488.1039928357,NY.GDP.PCAP.PP.CD,TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified
+603,2010,64881.7805747146,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+604,2011,67686.3853798798,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+605,2012,69102.4761704654,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+606,2013,70374.2353627555,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+607,2014,73619.0446557068,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+608,2015,64901.8800512352,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+609,2016,63968.8880391711,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+610,2017,67183.6053111678,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+611,2018,68576.1155204355,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+612,2019,69957.6180753398,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+613,2010,16817.0790492985,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+614,2011,18002.8938254166,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+615,2012,18192.3297038387,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+616,2013,19130.0613970595,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+617,2014,20093.6240651453,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+618,2015,20217.5604365641,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+619,2016,22454.3948288087,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+620,2017,23009.8742286911,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+621,2018,23588.1513898133,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+622,2019,24006.7869388827,NY.GDP.PCAP.PP.CD,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+623,2010,16740.3682415571,NY.GDP.PCAP.PP.CD,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+624,2011,17527.7487382376,NY.GDP.PCAP.PP.CD,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+625,2010,4119.8194657719,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+626,2011,4494.7313227255,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+627,2012,5255.8256094215,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+628,2013,5371.6871002024,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+629,2014,5510.1329304046,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+630,2015,5954.4007836321,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+631,2016,6305.3918030155,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+632,2017,6401.7408913507,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+633,2018,6469.9090981432,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+634,2019,6509.5683354833,NY.GDP.PCAP.PP.CD,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+635,2010,4162.0886309111,NY.GDP.PCAP.PP.CD,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+636,2011,3607.0905658488,NY.GDP.PCAP.PP.CD,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+637,2012,3491.2046099141,NY.GDP.PCAP.PP.CD,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+638,2013,3688.5194085236,NY.GDP.PCAP.PP.CD,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+639,2014,4.7,IC.FRM.FEMM.ZS,AFG,Afghanistan,South Asia,Low income,IDA
+640,2010,17.5,IC.FRM.FEMM.ZS,ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD
+641,2010,9.2,IC.FRM.FEMM.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+642,2017,8.0,IC.FRM.FEMM.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+643,2010,33.2,IC.FRM.FEMM.ZS,BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified
+644,2013,4.8,IC.FRM.FEMM.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+645,2010,25.4,IC.FRM.FEMM.ZS,BRB,Barbados,Latin America & Caribbean ,High income,Not classified
+646,2010,25.5,IC.FRM.FEMM.ZS,BLZ,Belize,Latin America & Caribbean ,Lower middle income,IBRD
+647,2015,26.3,IC.FRM.FEMM.ZS,BTN,Bhutan,South Asia,Lower middle income,IDA
+648,2010,21.7,IC.FRM.FEMM.ZS,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+649,2017,26.3,IC.FRM.FEMM.ZS,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+650,2010,4.5,IC.FRM.FEMM.ZS,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+651,2010,12.1,IC.FRM.FEMM.ZS,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+652,2017,18.9,IC.FRM.FEMM.ZS,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+653,2010,15.4,IC.FRM.FEMM.ZS,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+654,2013,14.2,IC.FRM.FEMM.ZS,DJI,Djibouti,Middle East & North Africa,Lower middle income,IDA
+655,2010,23.6,IC.FRM.FEMM.ZS,DMA,Dominica,Latin America & Caribbean ,Upper middle income,Blend
+656,2010,11.0,IC.FRM.FEMM.ZS,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+657,2016,21.2,IC.FRM.FEMM.ZS,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+658,2010,17.0,IC.FRM.FEMM.ZS,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+659,2017,22.9,IC.FRM.FEMM.ZS,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+660,2013,7.1,IC.FRM.FEMM.ZS,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+661,2016,4.9,IC.FRM.FEMM.ZS,EGY,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD
+662,2010,21.4,IC.FRM.FEMM.ZS,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+663,2016,28.0,IC.FRM.FEMM.ZS,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+664,2010,24.0,IC.FRM.FEMM.ZS,GRD,Grenada,Latin America & Caribbean ,Upper middle income,Blend
+665,2010,15.7,IC.FRM.FEMM.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+666,2017,18.5,IC.FRM.FEMM.ZS,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+667,2010,17.7,IC.FRM.FEMM.ZS,GUY,Guyana,Latin America & Caribbean ,Upper middle income,IDA
+668,2010,31.7,IC.FRM.FEMM.ZS,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+669,2016,28.0,IC.FRM.FEMM.ZS,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+670,2014,8.9,IC.FRM.FEMM.ZS,IND,India,South Asia,Lower middle income,IBRD
+671,2011,2.3,IC.FRM.FEMM.ZS,IRQ,Iraq,Middle East & North Africa,Upper middle income,IBRD
+672,2013,10.1,IC.FRM.FEMM.ZS,ISR,Israel,Middle East & North Africa,High income,Not classified
+673,2010,24.1,IC.FRM.FEMM.ZS,JAM,Jamaica,Latin America & Caribbean ,Upper middle income,IBRD
+674,2013,2.4,IC.FRM.FEMM.ZS,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+675,2019,3.1,IC.FRM.FEMM.ZS,JOR,Jordan,Middle East & North Africa,Upper middle income,IBRD
+676,2013,4.4,IC.FRM.FEMM.ZS,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+677,2019,5.9,IC.FRM.FEMM.ZS,LBN,Lebanon,Middle East & North Africa,Upper middle income,IBRD
+678,2019,11.3,IC.FRM.FEMM.ZS,MLT,Malta,Middle East & North Africa,High income,Not classified
+679,2010,14.6,IC.FRM.FEMM.ZS,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+680,2013,4.3,IC.FRM.FEMM.ZS,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+681,2019,5.4,IC.FRM.FEMM.ZS,MAR,Morocco,Middle East & North Africa,Lower middle income,IBRD
+682,2013,17.2,IC.FRM.FEMM.ZS,NPL,Nepal,South Asia,Lower middle income,IDA
+683,2010,32.3,IC.FRM.FEMM.ZS,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+684,2016,27.0,IC.FRM.FEMM.ZS,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+685,2013,6.0,IC.FRM.FEMM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+686,2010,23.5,IC.FRM.FEMM.ZS,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+687,2010,22.8,IC.FRM.FEMM.ZS,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+688,2017,19.6,IC.FRM.FEMM.ZS,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+689,2010,14.1,IC.FRM.FEMM.ZS,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+690,2017,19.9,IC.FRM.FEMM.ZS,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+691,2011,8.8,IC.FRM.FEMM.ZS,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+692,2010,21.1,IC.FRM.FEMM.ZS,KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD
+693,2010,23.7,IC.FRM.FEMM.ZS,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+694,2010,38.6,IC.FRM.FEMM.ZS,VCT,St. Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,Blend
+695,2010,15.0,IC.FRM.FEMM.ZS,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+696,2018,11.9,IC.FRM.FEMM.ZS,SUR,Suriname,Latin America & Caribbean ,Upper middle income,IBRD
+697,2010,20.8,IC.FRM.FEMM.ZS,TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD
+698,2013,8.5,IC.FRM.FEMM.ZS,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+699,2010,19.4,IC.FRM.FEMM.ZS,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+700,2017,10.6,IC.FRM.FEMM.ZS,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+701,2010,31.1,IC.FRM.FEMM.ZS,VEN,"Venezuela, RB",Latin America & Caribbean ,Not classified,IBRD
+702,2013,1.3,IC.FRM.FEMM.ZS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+703,2019,0.9,IC.FRM.FEMM.ZS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+704,2010,0.1,IC.FRM.FEMM.ZS,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
+705,2013,1.6,IC.FRM.FEMM.ZS,YEM,"Yemen, Rep.",Middle East & North Africa,Low income,IDA
